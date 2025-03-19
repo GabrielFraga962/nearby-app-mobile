@@ -60,4 +60,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 - **[MIT license](https://github.com/GabrielFraga962/Project-NLW-InOrbit/blob/main/LICENSE)**;
 - Copyright 2025 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
-
